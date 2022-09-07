@@ -59,6 +59,21 @@ https://github.com/ribafs/php-router
 https://github.com/ribafs/phpoo-livro/tree/main/atualizacoes/php-router2
 
 
+## Referências sobre rotas para PHP
+
+https://github.com/panique/mini3
+
+https://github.com/ribafs/php-router
+
+https://github.com/ribafs/phpoo-livro
+
+https://github.com/ribafs/mini-mvc
+
+https://helpincoding.com/php-routing-with-parameters/
+
+https://github.com/yousufnoor5/php-basic-routing
+
+
 ## Licence
 
 MIT license.
