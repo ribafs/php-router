@@ -2,8 +2,9 @@
 
 To simplifier I create one table, customer with only two fields, name and email.
 
-## Forum de discussão para o repositório
-Acabo de criar um forum para trocarmos ideias sobre MVC e rotas em PHP
+## Discussion forum for the repository
+
+I just created a forum to exchange ideas about MVC and router in PHP
 
 https://github.com/ribafs/php-router/discussions
 
