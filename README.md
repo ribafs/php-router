@@ -73,6 +73,11 @@ https://helpincoding.com/php-routing-with-parameters/
 
 https://github.com/yousufnoor5/php-basic-routing
 
+## Exemplo de rotas simpes
+
+Truxe um exemplo bem simples, como curiosidade
+
+[simple-router](simple-router)
 
 ## Licence
 
