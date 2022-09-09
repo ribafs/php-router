@@ -18,6 +18,8 @@ http://localhost/cadastro/clients/edit/38
 - O Model via edit devolve para o ClientsController
 - O ClientsController devolve o resultado já alterado para a view clients/edit com registro 38
 
+![](mvc.png)
+
 ## .htaccess
 
 Geralmente os sistemas de rotas são auxiliados por um arquivo de configuração do Apache, o .htaccess, para redirecionar as requisições.
