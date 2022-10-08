@@ -81,6 +81,13 @@ https://github.com/yousufnoor5/php-basic-routing
 
 [Routing.md](Routing.md)
 
+
+## See my last projects similar to this one:
+
+https://github.com/ribafs/simplest-router
+
+https://github.com/ribafs/micro-framework
+
 ## Licence
 
 MIT license.
